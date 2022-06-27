@@ -1,0 +1,2 @@
+# typing
+ JS Typing Animation
